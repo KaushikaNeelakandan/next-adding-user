@@ -1,0 +1,41 @@
+body{
+  background-color: rgb(195, 246, 246);
+  margin: 20px;
+}
+.navigation{
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row;
+  background-color: rgb(236, 247, 247);
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+
+}
+.link{
+  text-decoration: none;
+  color: black;
+  
+}
+.hello{
+  margin:30px;
+}
+li{
+  list-style-type: none;
+  background-color: hsla(6, 80%, 78%, 0.5);
+  margin:20px;
+  padding: 10px;
+  width: 50%;
+  border-radius: 10px;
+}
+.space{
+  padding-left: 40%;
+}
+.usercard{
+  background-color: silver;
+  width: 50%;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
